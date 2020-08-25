@@ -1,0 +1,2 @@
+# UncategorizedPoSh
+Random PowerShell snippets
